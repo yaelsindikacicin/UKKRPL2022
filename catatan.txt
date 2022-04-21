@@ -1,0 +1,4 @@
+
+123456|yaelsindika|2022-04-15|12:00|Tenggarong|40
+123456|yaelsindika|2022-04-16|14:39|tenggarong|40
+0103|pur|2022-04-16|13:43|SMK Ketopong|35
